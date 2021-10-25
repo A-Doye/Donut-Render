@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Donut:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Donut_jar</output-path>
+    <root id="archive" name="Donut.jar">
+      <element id="module-output" name="Donut" />
+    </root>
+  </artifact>
+</component>
